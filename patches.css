@@ -1,0 +1,10 @@
+/* elementor global custom css */
+
+/* prevent image ratio distorion on mobile home page */
+@media (max-width: 767px) {
+    .home .elementor-2 .elementor-element img {
+        height: auto; /* prevent ration distortion */
+    }
+}
+
+
