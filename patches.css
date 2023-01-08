@@ -28,3 +28,8 @@ selector .elementor-toggle-icon {
     font-size: 200%;
     margin-top: 10px;
 }
+
+/* Jetzt starten page */
+/* each @media (max-width: 1024px) .elementor-widget-container
+ * reset margin-top: 30px to margin-top: 0 using elementor UI
+ */
