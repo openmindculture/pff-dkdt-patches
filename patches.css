@@ -24,6 +24,7 @@ selector {
 
 /* Jetzt starten page */
 /* Umschalter elements (.elementor-toggle-icon-right) */
-selector {
+selector .elementor-toggle-icon {
     font-size: 200%;
+    margin-top: 10px;
 }
