@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2023-01-08 17:36" -->
+	<!-- generator="WordPress/6.1.1" created="2023-01-08 18:52" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>daskannstdutun.de</title>
 	<link>https://daskannstdutun.de</link>
 	<description></description>
-	<pubDate>Sun, 08 Jan 2023 17:36:54 +0000</pubDate>
+	<pubDate>Sun, 08 Jan 2023 18:52:53 +0000</pubDate>
 	<language>de-DE</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://daskannstdutun.de</wp:base_site_url>
@@ -2245,106 +2245,6 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://daskannstdutun.de/?p=55</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[Daniela]]></dc:creator>
-		<guid isPermaLink="false">http://daskannstdutun.de/?p=55</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2022-07-14 14:52:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-14 14:52:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1657803156]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_mega_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
 		<link>https://daskannstdutun.de/2022/08/01/81/</link>
 		<pubDate>Thu, 14 Jul 2022 13:22:48 +0000</pubDate>
 		<dc:creator><![CDATA[Daniela]]></dc:creator>
@@ -2946,6 +2846,128 @@
 		url('https://daskannstdutun.de/wp-content/uploads/2022/09/RobotoSlab-Black.svg#RobotoSlab') format('svg');
 }
 ]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Custom Header]]></title>
+		<link>https://daskannstdutun.de/?oceanwp_library=custom-header</link>
+		<pubDate>Thu, 20 Oct 2022 14:41:49 +0000</pubDate>
+		<dc:creator><![CDATA[Daniela]]></dc:creator>
+		<guid isPermaLink="false">https://daskannstdutun.de/?post_type=oceanwp_library&#038;p=617</guid>
+		<description></description>
+		<content:encoded><![CDATA[<style>/*! elementor - v3.9.2 - 21-12-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="https://daskannstdutun.de">
+							<img width="1080" height="242" src="https://daskannstdutun.de/wp-content/uploads/2022/07/PFF-Logo-2022-07-2-01.png" alt="" loading="lazy" srcset="https://daskannstdutun.de/wp-content/uploads/2022/07/PFF-Logo-2022-07-2-01.png 1080w, https://daskannstdutun.de/wp-content/uploads/2022/07/PFF-Logo-2022-07-2-01-300x67.png 300w, https://daskannstdutun.de/wp-content/uploads/2022/07/PFF-Logo-2022-07-2-01-1024x229.png 1024w, https://daskannstdutun.de/wp-content/uploads/2022/07/PFF-Logo-2022-07-2-01-768x172.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" />								</a>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>617</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-20 16:41:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-20 14:41:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-01-08 19:52:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-08 18:52:13]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[custom-header]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[oceanwp_library]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_post_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[{"id":"6b49e052","elType":"section","settings":{"gap":"no","height":"min-height","custom_height":{"unit":"px","size":"45","sizes":[]},"content_position":"middle","background_background":"classic","__globals__":{"background_color":""},"_title":"Copyright","background_color":"#FFFFFF","content_width":{"unit":"px","size":1600,"sizes":[]},"margin_tablet":{"unit":"%","top":"","right":0,"bottom":"","left":0,"isLinked":true},"margin_mobile":{"unit":"%","top":"0","right":0,"bottom":"5","left":0,"isLinked":false},"layout":"full_width","padding":{"unit":"%","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"padding_tablet":{"unit":"%","top":"0","right":"5","bottom":"0","left":"5","isLinked":false},"padding_mobile":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"stretch_section":"section-stretched","structure":"20","custom_height_mobile":{"unit":"px","size":70,"sizes":[]},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":true},"custom_css":"\/* allow mobile menu burger icon to appear next to the title to save screen height *\/\n@media (max-width: 420px) {\n    selector .elementor-container {\n        min-height: 45px; \/* reset unhelpful mobile min height *\/\n    }\n}"},"elements":[{"id":"527166ad","elType":"column","settings":{"_column_size":50,"space_between_widgets":"0","_inline_size":30},"elements":[{"id":"0cbe0e0","elType":"widget","settings":{"image":{"url":"https:\/\/daskannstdutun.de\/wp-content\/uploads\/2022\/07\/PFF-Logo-2022-07-2-01.png","id":73,"alt":"","source":"library"},"width":{"unit":"%","size":70,"sizes":[]},"image_size":"full","link_to":"custom","link":{"url":"https:\/\/daskannstdutun.de","is_external":"","nofollow":"","custom_attributes":""},"width_mobile":{"unit":"%","size":100,"sizes":[]},"custom_css":"\/* allow mobile menu burger icon to appear next to the title to save screen height *\/\n@media (max-width: 767px) {\n    selector {\n        margin-bottom: calc(-20px - 10%);\n        margin-right: 10px;\n    }\n}"},"elements":[],"widgetType":"image"}],"isInner":""},{"id":"9b29b2b","elType":"column","settings":{"_column_size":50,"space_between_widgets":"0","_inline_size":70},"elements":[{"id":"9920ff2","elType":"widget","settings":{"menu":"menue","align_items":"right","color_menu_item_hover":"#8FCBB0","pointer_color_menu_item_hover":"#61CE7000","color_menu_item_active":"#8FCBB0","toggle_background_color":"#02010100","text_align":"center","dropdown_typography_typography":"custom","dropdown_typography_font_family":"Paytone One","dropdown_typography_font_size":{"unit":"px","size":16,"sizes":[]},"__globals__":{"menu_typography_typography":"globals\/typography?id=15775f0","color_menu_item":"globals\/colors?id=ec37af6","color_menu_item_active":"globals\/colors?id=4a62416","color_dropdown_item_hover":"globals\/colors?id=4a62416","color_dropdown_item":"globals\/colors?id=ec37af6","dropdown_typography_typography":"","color_dropdown_item_active":"globals\/colors?id=4a62416","toggle_color":"globals\/colors?id=9399b1e","toggle_color_hover":"globals\/colors?id=9399b1e"},"menu_typography_typography":"custom","menu_typography_font_family":"Paytone One","menu_typography_font_size":{"unit":"px","size":16,"sizes":[]},"menu_typography_text_transform":"uppercase","menu_typography_line_height":{"unit":"px","size":25,"sizes":[]},"menu_typography_letter_spacing":{"unit":"px","size":1,"sizes":[]},"menu_typography_word_spacing":{"unit":"em","size":"","sizes":[]},"color_menu_item":"#23388E","color_dropdown_item":"#23388E","background_color_dropdown_item":"#02010100","color_dropdown_item_hover":"#8FCBB0","background_color_dropdown_item_hover":"#02010100","dropdown_typography_text_transform":"none","dropdown_typography_letter_spacing":{"unit":"px","size":1,"sizes":[]},"dropdown_typography_letter_spacing_mobile":{"unit":"px","size":0,"sizes":[]},"dropdown_typography_word_spacing":{"unit":"em","size":"","sizes":[]},"dropdown_typography_line_height":{"unit":"px","size":25,"sizes":[]},"dropdown_typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"dropdown_typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"toggle_align":"right"},"elements":[],"widgetType":"nav-menu"}],"isInner":false}],"isInner":""}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_second_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_disable_margins]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_display_top_bar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_display_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_center_header_left_menu]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_custom_header_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_header_custom_menu]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_menu_typo_font_family]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_disable_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_disable_heading]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_disable_breadcrumbs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_display_footer_widgets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_display_footer_bottom]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ocean_custom_footer_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.9.2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_pro_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.9.2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5266,128 +5288,6 @@ drop me a line .</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="oceanwp-child-theme-master"><![CDATA[oceanwp-child-theme-master]]></category>
 						</item>
-					<item>
-		<title><![CDATA[Custom Header]]></title>
-		<link>https://daskannstdutun.de/?oceanwp_library=custom-header</link>
-		<pubDate>Thu, 20 Oct 2022 14:41:49 +0000</pubDate>
-		<dc:creator><![CDATA[Daniela]]></dc:creator>
-		<guid isPermaLink="false">https://daskannstdutun.de/?post_type=oceanwp_library&#038;p=617</guid>
-		<description></description>
-		<content:encoded><![CDATA[<style>/*! elementor - v3.9.1 - 14-12-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="https://daskannstdutun.de">
-							<img width="1080" height="242" src="https://daskannstdutun.de/wp-content/uploads/2022/07/PFF-Logo-2022-07-2-01.png" alt="" loading="lazy" srcset="https://daskannstdutun.de/wp-content/uploads/2022/07/PFF-Logo-2022-07-2-01.png 1080w, https://daskannstdutun.de/wp-content/uploads/2022/07/PFF-Logo-2022-07-2-01-300x67.png 300w, https://daskannstdutun.de/wp-content/uploads/2022/07/PFF-Logo-2022-07-2-01-1024x229.png 1024w, https://daskannstdutun.de/wp-content/uploads/2022/07/PFF-Logo-2022-07-2-01-768x172.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" />								</a>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>617</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-20 16:41:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-20 14:41:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-15 19:14:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-15 18:14:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[custom-header]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[oceanwp_library]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_post_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"6b49e052","elType":"section","settings":{"gap":"no","height":"min-height","custom_height":{"unit":"px","size":"45","sizes":[]},"content_position":"middle","background_background":"classic","__globals__":{"background_color":""},"_title":"Copyright","background_color":"#FFFFFF","content_width":{"unit":"px","size":1600,"sizes":[]},"margin_tablet":{"unit":"%","top":"","right":0,"bottom":"","left":0,"isLinked":true},"margin_mobile":{"unit":"%","top":"0","right":0,"bottom":"5","left":0,"isLinked":false},"layout":"full_width","padding":{"unit":"%","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"padding_tablet":{"unit":"%","top":"0","right":"5","bottom":"0","left":"5","isLinked":false},"padding_mobile":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"stretch_section":"section-stretched","structure":"20","custom_height_mobile":{"unit":"px","size":70,"sizes":[]},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":true}},"elements":[{"id":"527166ad","elType":"column","settings":{"_column_size":50,"space_between_widgets":"0","_inline_size":30},"elements":[{"id":"0cbe0e0","elType":"widget","settings":{"image":{"url":"https:\/\/daskannstdutun.de\/wp-content\/uploads\/2022\/07\/PFF-Logo-2022-07-2-01.png","id":73,"alt":"","source":"library"},"width":{"unit":"%","size":70,"sizes":[]},"image_size":"full","link_to":"custom","link":{"url":"https:\/\/daskannstdutun.de","is_external":"","nofollow":"","custom_attributes":""},"width_mobile":{"unit":"%","size":100,"sizes":[]}},"elements":[],"widgetType":"image"}],"isInner":""},{"id":"9b29b2b","elType":"column","settings":{"_column_size":50,"space_between_widgets":"0","_inline_size":70},"elements":[{"id":"9920ff2","elType":"widget","settings":{"menu":"menue","align_items":"right","color_menu_item_hover":"#8FCBB0","pointer_color_menu_item_hover":"#61CE7000","color_menu_item_active":"#8FCBB0","toggle_background_color":"#02010100","text_align":"center","dropdown_typography_typography":"custom","dropdown_typography_font_family":"Paytone One","dropdown_typography_font_size":{"unit":"px","size":16,"sizes":[]},"__globals__":{"menu_typography_typography":"globals\/typography?id=15775f0","color_menu_item":"globals\/colors?id=ec37af6","color_menu_item_active":"globals\/colors?id=4a62416","color_dropdown_item_hover":"globals\/colors?id=4a62416","color_dropdown_item":"globals\/colors?id=ec37af6","dropdown_typography_typography":"","color_dropdown_item_active":"globals\/colors?id=4a62416","toggle_color":"globals\/colors?id=9399b1e","toggle_color_hover":"globals\/colors?id=9399b1e"},"menu_typography_typography":"custom","menu_typography_font_family":"Paytone One","menu_typography_font_size":{"unit":"px","size":16,"sizes":[]},"menu_typography_text_transform":"uppercase","menu_typography_line_height":{"unit":"px","size":25,"sizes":[]},"menu_typography_letter_spacing":{"unit":"px","size":1,"sizes":[]},"menu_typography_word_spacing":{"unit":"em","size":"","sizes":[]},"color_menu_item":"#23388E","color_dropdown_item":"#23388E","background_color_dropdown_item":"#02010100","color_dropdown_item_hover":"#8FCBB0","background_color_dropdown_item_hover":"#02010100","dropdown_typography_text_transform":"none","dropdown_typography_letter_spacing":{"unit":"px","size":1,"sizes":[]},"dropdown_typography_letter_spacing_mobile":{"unit":"px","size":0,"sizes":[]},"dropdown_typography_word_spacing":{"unit":"em","size":"","sizes":[]},"dropdown_typography_line_height":{"unit":"px","size":25,"sizes":[]},"dropdown_typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"dropdown_typography_line_height_mobile":{"unit":"em","size":"","sizes":[]}},"elements":[],"widgetType":"nav-menu"}],"isInner":false}],"isInner":""}]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_second_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_disable_margins]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_display_top_bar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_display_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_center_header_left_menu]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_custom_header_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_header_custom_menu]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_menu_typo_font_family]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_disable_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_disable_heading]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_disable_breadcrumbs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_display_footer_widgets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_display_footer_bottom]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ocean_custom_footer_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.9.1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_pro_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.9.1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 				</channel>
 </rss>
 	

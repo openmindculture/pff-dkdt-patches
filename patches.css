@@ -33,3 +33,19 @@ selector .elementor-toggle-icon {
 /* each @media (max-width: 1024px) .elementor-widget-container
  * reset margin-top: 30px to margin-top: 0 using elementor UI
  */
+
+/* page header title image custom CSS defined in Elementor UI */
+/* allow mobile menu burger icon to appear next to the title to save screen height */
+@media (max-width: 767px) {
+    selector {
+        margin-bottom: calc(-20px - 10%);
+    }
+}
+
+/* page header section custom CSS defined in Elementor UI */
+/* allow mobile menu burger icon to appear next to the title to save screen height */
+@media (max-width: 420px) {
+    selector .elementor-container {
+        min-height: 45px; /* reset unhelpful mobile min height */
+    }
+}
