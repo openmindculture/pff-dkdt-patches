@@ -15,3 +15,9 @@
         flex-basis: 42%;
     }
 }
+
+/* Psychology page, Jetzt starten page */
+/* section below hero section */
+selector {
+    z-index: -1; /* prevent border overlapping head image */
+}
