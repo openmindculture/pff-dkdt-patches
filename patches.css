@@ -8,3 +8,10 @@
 }
 
 
+/* Psychology page: flex container around the seven boxes  */
+/*  improve readability by increasing box width on tablet */
+@media (max-width: 1079px) {
+    .e-con-inner > .elementor-element {
+        flex-basis: 42%;
+    }
+}
