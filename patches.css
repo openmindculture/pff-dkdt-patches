@@ -1,4 +1,12 @@
-/* elementor global custom css */
+/**
+ * patches for Elementor / OceanWP-child for daskannstdutun.de
+ */
+
+/* stylelint-disable property-no-unknown value-no-unknown-custom-properties */
+
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+/* elementor global custom css                                     */
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
 
 /* prevent image ratio distorion on mobile home page */
 @media (max-width: 767px) {
@@ -7,6 +15,27 @@
     }
 }
 
+/* fix full-width style for elementor Container elements:
+ * this fix reverts the width and postitioning pixel inline styles,
+ * (for constrained containers, set width to "boxed" in elementor properties)
+ * - assuming body { overflow-x: hidden; } for the 101vw workaround,
+ * - don't apply to first child of page wrapper, assuming that is a hero header or similar,
+ * - don't apply to any nested descendants,
+ * - allow optional section wrapper using in the preview UI.
+ * var(--container-max-width) would be our element's width when not fully stretched
+ */
+div.entry div[data-elementor-type="wp-page"] > .e-con-full:not(:first-child),
+div.entry div[data-elementor-type="wp-page"] > .elementor-section-wrap:not(:first-child) > .e-con-full {
+    max-width: unset;
+    width: 100vw;
+    margin-left:   calc((100% - 100vw) / 2);
+    padding-left:  calc((100vw - var(--container-max-width)) / 2);
+    padding-right: calc((100vw - var(--container-max-width)) / 2);
+}
+
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+/* page or element specific styles                                 */
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
 
 /* Psychology page: flex container around the seven boxes  */
 /*  improve readability by increasing box width on tablet */
