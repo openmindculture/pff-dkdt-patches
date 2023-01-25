@@ -33,6 +33,13 @@ div.entry div[data-elementor-type="wp-page"] > .elementor-section-wrap:not(:firs
     padding-right: calc((100vw - var(--container-max-width)) / 2);
 }
 
+/* fix form fields checkbox truncation using multiple fallback values */
+.elementor-form input[type=checkbox] {
+    appearance: auto;
+    appearance: checkbox;
+    -webkit-appearance: checkbox;
+}
+
 /* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
 /* page or element specific styles                                 */
 /* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
