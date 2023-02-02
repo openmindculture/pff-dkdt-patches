@@ -35,9 +35,15 @@ div.entry div[data-elementor-type="wp-page"] > .elementor-section-wrap:not(:firs
 
 /* fix form fields checkbox truncation using multiple fallback values */
 .elementor-form input[type=checkbox] {
-    appearance: auto;
-    appearance: checkbox;
-    -webkit-appearance: checkbox;
+    display: block;
+    float: left;
+    margin: 0 10px 0 0;
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+}
+.elementor-form input[type=checkbox]::before {
+    margin-top: 3px;
 }
 
 /* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
