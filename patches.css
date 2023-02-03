@@ -51,8 +51,15 @@ div.entry div[data-elementor-type="wp-page"] > .elementor-section-wrap:not(:firs
 /* page or element specific styles                                 */
 /* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
 
-/* Psychology page: flex container around the seven boxes  */
-/*  improve readability by increasing box width on tablet */
+/* Home page: buttons below "Kommt dir das bekannt vor?            */
+/* font awesome icon after was set and styled using elementor UI   */
+/* we only need to swap the hover state using custom element CSS   */
+selector:hover .elementor-button-icon .fa-circle::before {
+    content: "\f058";
+}
+
+/* Psychology page: flex container around the seven boxes          */
+/*  improve readability by increasing box width on tablet          */
 @media (max-width: 1079px) {
     .e-con-inner > .elementor-element {
         flex-basis: 42%;
