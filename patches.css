@@ -52,10 +52,15 @@ div.entry div[data-elementor-type="wp-page"] > .elementor-section-wrap:not(:firs
 /* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
 
 /* Home page: buttons below "Kommt dir das bekannt vor?            */
-/* font awesome icon after was set and styled using elementor UI   */
-/* we only need to swap the hover state using custom element CSS   */
-selector:hover .elementor-button-icon .fa-circle::before {
-    content: "\f058";
+selector .elementor-button-link {
+    padding-left: 40px;
+    padding-right: 40px;
+    background-repeat: no-repeat;
+    background-position: 98% 55%;
+    background-size: 25px 25px;
+}
+selector .elementor-button-link:hover {
+    background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' id='Ebene_1' x='0px' y='0px' viewBox='0 0 178.9 166.3' style='enable-background:new 0 0 178.9 166.3%3B' xml:space='preserve'%3E%3Cg%3E%3Cpolygon fill='white' points='178.9 139.5 172.6 166.3 10.3 19.6 47.1 7.6 '%3E%3C/polygon%3E%3Cpolygon fill='white' points='19.8 144.5 0 131.9 131.9 0 164.4 17.7 '%3E%3C/polygon%3E%3C/g%3E%3C/svg%3E");
 }
 
 /* Psychology page: flex container around the seven boxes          */
